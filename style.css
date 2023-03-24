@@ -16,7 +16,7 @@ body {
     bottom: 0;
     background-image: url(cactus.png);
 }
-.game-over{
+.gameover{
     text-align: center;
     color: #666666;
     margin-top: 50px;
